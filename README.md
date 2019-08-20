@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi!
+
+My name is Shreni Jain! I am in 10th grade in Normal community High School.
+
+
